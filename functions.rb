@@ -1,3 +1,7 @@
+$ git add functions.rb
+
+$ git commit -m
+
 # Return a reversed copy of the array
 def reverse(an_array)
 end
